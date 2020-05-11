@@ -21,4 +21,4 @@ After this, you should be able to run the project using Jupyter Notebook.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/tlemenestrel/France_Real_Estate_Prices_Prediction/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/tlemenestrel/Systems_Of_Equations_Solver/blob/master/LICENSE) file for details
