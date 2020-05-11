@@ -1,6 +1,6 @@
 ![Image of maths](https://github.com/tlemenestrel/Systems_Of_Equations_Solver/blob/master/maths.jpg)
 
-# Implementing Crout and Doolittle matrix decomposition algorithms
+# Implementing Crout and Doolittle matrix decompositions
 
 This project is a Machine Learning model to predict real estate prices of properties across France. It is a supervised regression task. The model used for this project is XGBoost.
 
