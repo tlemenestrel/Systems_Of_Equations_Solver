@@ -1,4 +1,4 @@
-![Image of maths](https://github.com/tlemenestrel/Systems_Of_Equations_Solver/blob/master/mathematics.jpg)
+![Image of maths](https://github.com/tlemenestrel/Systems_Of_Equations_Solver/blob/master/maths.jpg)
 
 # Implementing Crout and Doolittle matrix decompositions
 
