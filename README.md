@@ -1,6 +1,6 @@
-![Image of a scraper](https://github.com/tlemenestrel/France_Real_Estate_Prices_Prediction/blob/master/Images/drawing.jpg)
+![Image of maths](https://github.com/tlemenestrel/Systems_Of_Equations_Solver/blob/master/maths.jpg)
 
-# Predicting real estate prices in France using XGBoost 
+# Solving linear systems of equations using Crout and Doolittle matrix decomposition algorithms
 
 This project is a Machine Learning model to predict real estate prices of properties across France. It is a supervised regression task. The model used for this project is XGBoost.
 
